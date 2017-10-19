@@ -25,8 +25,8 @@
 /* Posititoning Classes */
 
 .col-1 {
-  width: 30%; 
-  display: block;
+  width: 30%;
+  display: inline-block;
 }
 
 .col-2 {
