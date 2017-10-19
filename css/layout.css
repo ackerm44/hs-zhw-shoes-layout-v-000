@@ -35,3 +35,8 @@
   display: inline-block;
   margin: 5px;
 }
+
+.milk_text {
+  margin: 5px; 
+  display: block; 
+}
