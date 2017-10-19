@@ -31,4 +31,5 @@
 
 .col-2 {
   width: 60%
+  display: inline-block; 
 }
