@@ -25,11 +25,11 @@
 /* Posititoning Classes */
 
 .col-1 {
-  width: 30%;
+  width: 33%;
   display: inline-block;
 }
 
 .col-2 {
-  width: 60%
-  display: inline-block; 
+  width: 66%; 
+  display: inline-block;
 }
