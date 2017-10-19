@@ -26,14 +26,14 @@
 
 .col-1 {
   width: 31%;
-  display: inline-block;
+
   margin: 5px;
   float: left;
 }
 
 .col-2 {
   width: 63.5%;
-  display: inline-block;
+
   margin: 5px;
   float: left; 
 }
