@@ -26,12 +26,10 @@
 
 .col-1 {
   width: 30%
-  display: inline; 
-  
+
 }
 
 .col-2 {
   width: 60%
-  float: left; 
-  display: inline; 
+  float: left;
 }
